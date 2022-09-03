@@ -1,2 +1,3 @@
 My first readme
-\nby anni
+This is my first coding project in ALX.
+
