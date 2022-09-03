@@ -1,2 +1,1 @@
-My first readme
-\nby anni
+My first readme and first coding project.
