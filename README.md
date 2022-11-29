@@ -1,1 +1,3 @@
-My first readme and first coding project.
+My first readme
+This is my first coding project in ALX.
+
